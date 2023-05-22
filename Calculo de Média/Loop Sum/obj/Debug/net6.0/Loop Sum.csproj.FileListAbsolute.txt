@@ -1,0 +1,15 @@
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\Loop Sum\Loop Sum\bin\Debug\net6.0\Loop Sum.exe
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\Loop Sum\Loop Sum\bin\Debug\net6.0\Loop Sum.deps.json
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\Loop Sum\Loop Sum\bin\Debug\net6.0\Loop Sum.runtimeconfig.json
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\Loop Sum\Loop Sum\bin\Debug\net6.0\Loop Sum.dll
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\Loop Sum\Loop Sum\bin\Debug\net6.0\Loop Sum.pdb
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\Loop Sum\Loop Sum\obj\Debug\net6.0\Loop Sum.csproj.AssemblyReference.cache
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\Loop Sum\Loop Sum\obj\Debug\net6.0\Loop Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\Loop Sum\Loop Sum\obj\Debug\net6.0\Loop Sum.AssemblyInfoInputs.cache
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\Loop Sum\Loop Sum\obj\Debug\net6.0\Loop Sum.AssemblyInfo.cs
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\Loop Sum\Loop Sum\obj\Debug\net6.0\Loop Sum.csproj.CoreCompileInputs.cache
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\Loop Sum\Loop Sum\obj\Debug\net6.0\Loop Sum.dll
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\Loop Sum\Loop Sum\obj\Debug\net6.0\refint\Loop Sum.dll
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\Loop Sum\Loop Sum\obj\Debug\net6.0\Loop Sum.pdb
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\Loop Sum\Loop Sum\obj\Debug\net6.0\Loop Sum.genruntimeconfig.cache
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\Loop Sum\Loop Sum\obj\Debug\net6.0\ref\Loop Sum.dll
