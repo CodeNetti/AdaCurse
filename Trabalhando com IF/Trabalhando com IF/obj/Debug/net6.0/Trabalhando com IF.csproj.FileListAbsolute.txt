@@ -1,0 +1,15 @@
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\Trabalhando com IF\Trabalhando com IF\bin\Debug\net6.0\Trabalhando com IF.exe
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\Trabalhando com IF\Trabalhando com IF\bin\Debug\net6.0\Trabalhando com IF.deps.json
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\Trabalhando com IF\Trabalhando com IF\bin\Debug\net6.0\Trabalhando com IF.runtimeconfig.json
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\Trabalhando com IF\Trabalhando com IF\bin\Debug\net6.0\Trabalhando com IF.dll
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\Trabalhando com IF\Trabalhando com IF\bin\Debug\net6.0\Trabalhando com IF.pdb
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\Trabalhando com IF\Trabalhando com IF\obj\Debug\net6.0\Trabalhando com IF.csproj.AssemblyReference.cache
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\Trabalhando com IF\Trabalhando com IF\obj\Debug\net6.0\Trabalhando com IF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\Trabalhando com IF\Trabalhando com IF\obj\Debug\net6.0\Trabalhando com IF.AssemblyInfoInputs.cache
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\Trabalhando com IF\Trabalhando com IF\obj\Debug\net6.0\Trabalhando com IF.AssemblyInfo.cs
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\Trabalhando com IF\Trabalhando com IF\obj\Debug\net6.0\Trabalhando com IF.csproj.CoreCompileInputs.cache
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\Trabalhando com IF\Trabalhando com IF\obj\Debug\net6.0\Trabalhando com IF.dll
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\Trabalhando com IF\Trabalhando com IF\obj\Debug\net6.0\refint\Trabalhando com IF.dll
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\Trabalhando com IF\Trabalhando com IF\obj\Debug\net6.0\Trabalhando com IF.pdb
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\Trabalhando com IF\Trabalhando com IF\obj\Debug\net6.0\Trabalhando com IF.genruntimeconfig.cache
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\Trabalhando com IF\Trabalhando com IF\obj\Debug\net6.0\ref\Trabalhando com IF.dll
