@@ -1,0 +1,15 @@
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\Trabalhando com Arrays\Trabalhando com Arrays\bin\Debug\net6.0\Trabalhando com Arrays.exe
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\Trabalhando com Arrays\Trabalhando com Arrays\bin\Debug\net6.0\Trabalhando com Arrays.deps.json
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\Trabalhando com Arrays\Trabalhando com Arrays\bin\Debug\net6.0\Trabalhando com Arrays.runtimeconfig.json
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\Trabalhando com Arrays\Trabalhando com Arrays\bin\Debug\net6.0\Trabalhando com Arrays.dll
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\Trabalhando com Arrays\Trabalhando com Arrays\bin\Debug\net6.0\Trabalhando com Arrays.pdb
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\Trabalhando com Arrays\Trabalhando com Arrays\obj\Debug\net6.0\Trabalhando com Arrays.csproj.AssemblyReference.cache
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\Trabalhando com Arrays\Trabalhando com Arrays\obj\Debug\net6.0\Trabalhando com Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\Trabalhando com Arrays\Trabalhando com Arrays\obj\Debug\net6.0\Trabalhando com Arrays.AssemblyInfoInputs.cache
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\Trabalhando com Arrays\Trabalhando com Arrays\obj\Debug\net6.0\Trabalhando com Arrays.AssemblyInfo.cs
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\Trabalhando com Arrays\Trabalhando com Arrays\obj\Debug\net6.0\Trabalhando com Arrays.csproj.CoreCompileInputs.cache
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\Trabalhando com Arrays\Trabalhando com Arrays\obj\Debug\net6.0\Trabalhando com Arrays.dll
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\Trabalhando com Arrays\Trabalhando com Arrays\obj\Debug\net6.0\refint\Trabalhando com Arrays.dll
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\Trabalhando com Arrays\Trabalhando com Arrays\obj\Debug\net6.0\Trabalhando com Arrays.pdb
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\Trabalhando com Arrays\Trabalhando com Arrays\obj\Debug\net6.0\Trabalhando com Arrays.genruntimeconfig.cache
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\Trabalhando com Arrays\Trabalhando com Arrays\obj\Debug\net6.0\ref\Trabalhando com Arrays.dll
