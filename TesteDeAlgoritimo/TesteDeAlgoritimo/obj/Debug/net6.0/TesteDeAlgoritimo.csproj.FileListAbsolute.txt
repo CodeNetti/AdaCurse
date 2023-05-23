@@ -1,0 +1,15 @@
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\TesteDeAlgoritimo\TesteDeAlgoritimo\bin\Debug\net6.0\TesteDeAlgoritimo.exe
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\TesteDeAlgoritimo\TesteDeAlgoritimo\bin\Debug\net6.0\TesteDeAlgoritimo.deps.json
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\TesteDeAlgoritimo\TesteDeAlgoritimo\bin\Debug\net6.0\TesteDeAlgoritimo.runtimeconfig.json
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\TesteDeAlgoritimo\TesteDeAlgoritimo\bin\Debug\net6.0\TesteDeAlgoritimo.dll
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\TesteDeAlgoritimo\TesteDeAlgoritimo\bin\Debug\net6.0\TesteDeAlgoritimo.pdb
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\TesteDeAlgoritimo\TesteDeAlgoritimo\obj\Debug\net6.0\TesteDeAlgoritimo.csproj.AssemblyReference.cache
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\TesteDeAlgoritimo\TesteDeAlgoritimo\obj\Debug\net6.0\TesteDeAlgoritimo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\TesteDeAlgoritimo\TesteDeAlgoritimo\obj\Debug\net6.0\TesteDeAlgoritimo.AssemblyInfoInputs.cache
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\TesteDeAlgoritimo\TesteDeAlgoritimo\obj\Debug\net6.0\TesteDeAlgoritimo.AssemblyInfo.cs
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\TesteDeAlgoritimo\TesteDeAlgoritimo\obj\Debug\net6.0\TesteDeAlgoritimo.csproj.CoreCompileInputs.cache
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\TesteDeAlgoritimo\TesteDeAlgoritimo\obj\Debug\net6.0\TesteDeAlgoritimo.dll
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\TesteDeAlgoritimo\TesteDeAlgoritimo\obj\Debug\net6.0\refint\TesteDeAlgoritimo.dll
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\TesteDeAlgoritimo\TesteDeAlgoritimo\obj\Debug\net6.0\TesteDeAlgoritimo.pdb
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\TesteDeAlgoritimo\TesteDeAlgoritimo\obj\Debug\net6.0\TesteDeAlgoritimo.genruntimeconfig.cache
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\TesteDeAlgoritimo\TesteDeAlgoritimo\obj\Debug\net6.0\ref\TesteDeAlgoritimo.dll

@@ -1,0 +1,15 @@
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\MostrarLoginName\MostrarLoginName\bin\Debug\net6.0\MostrarLoginName.exe
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\MostrarLoginName\MostrarLoginName\bin\Debug\net6.0\MostrarLoginName.deps.json
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\MostrarLoginName\MostrarLoginName\bin\Debug\net6.0\MostrarLoginName.runtimeconfig.json
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\MostrarLoginName\MostrarLoginName\bin\Debug\net6.0\MostrarLoginName.dll
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\MostrarLoginName\MostrarLoginName\bin\Debug\net6.0\MostrarLoginName.pdb
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\MostrarLoginName\MostrarLoginName\obj\Debug\net6.0\MostrarLoginName.csproj.AssemblyReference.cache
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\MostrarLoginName\MostrarLoginName\obj\Debug\net6.0\MostrarLoginName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\MostrarLoginName\MostrarLoginName\obj\Debug\net6.0\MostrarLoginName.AssemblyInfoInputs.cache
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\MostrarLoginName\MostrarLoginName\obj\Debug\net6.0\MostrarLoginName.AssemblyInfo.cs
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\MostrarLoginName\MostrarLoginName\obj\Debug\net6.0\MostrarLoginName.csproj.CoreCompileInputs.cache
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\MostrarLoginName\MostrarLoginName\obj\Debug\net6.0\MostrarLoginName.dll
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\MostrarLoginName\MostrarLoginName\obj\Debug\net6.0\refint\MostrarLoginName.dll
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\MostrarLoginName\MostrarLoginName\obj\Debug\net6.0\MostrarLoginName.pdb
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\MostrarLoginName\MostrarLoginName\obj\Debug\net6.0\MostrarLoginName.genruntimeconfig.cache
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\MostrarLoginName\MostrarLoginName\obj\Debug\net6.0\ref\MostrarLoginName.dll
